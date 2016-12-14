@@ -1,0 +1,6 @@
+{
+  "name": "Jollof",
+  "tagline": "A lightweight PHP framework for developers who love smart work",
+  "body": "# Jollof \r\n\r\nThis is a very lighweight PHP framework built to cater to very busy backend-developers who have very little time to deliver on the job. It is also very configurable as most of the boilerplate code you need to get up and running on a serious project has already been baked in. Web development has never been this easy!\r\n\r\n## Setting Up\r\n\r\nThe philosophy of **Jollof** is very simple. _Routes_ are very tightly knitted to the _Controllers_ that service them. For every route, the first part of the URI and/or pathname is the Controller class name and the second part of the URI and/or pathname is the Controller class method. \r\n\r\n>e.g. /confirmation/proceed - Confirmation::proceed()\r\n\r\nViews and Routes can be easily setup using the console command\r\n\r\n```bash\r\n\t$ php jollof make:view site/index\r\n```\r\n\r\n```bash \r\n\t$ php jollof make:route /confirmation/proceed POST\r\n```\r\n\r\nAs well as Controllers and Models\r\n\r\n```bash\r\n\t$ php jollof make:model Comment\r\n```\r\n\r\n```bash \r\n\t$ php jollof make:controller Account Settings\r\n```\r\n\r\n_Mobicent, Ltd_\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
