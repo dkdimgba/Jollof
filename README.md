@@ -24,7 +24,7 @@ _Thanks to **Micheal Akpobome**, **Shuaib Afegbua**, **Abraham Yusuf**, **Stephe
 
 ## Trademarks
 
-_Trademark(s) for this PHP framework are a joint effort of [Mobicent, Ltd](http://www.collegemobile.net) and [Abuja Dev Meetup](http://www.abujadevmeetup.com)_  
+_Trademark(s) for this PHP framework are a joint effort of [Mobicent, Ltd](http://www.collegemobile.net) and [#WeCode (Abuja Dev Meetup)](http://www.wecode.ng)_  
 
 ## License
 
